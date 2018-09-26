@@ -47,7 +47,7 @@
           <entry key="html" value="91" />
           <entry key="json" value="1" />
           <entry key="php" value="2" />
-          <entry key="twig" value="343" />
+          <entry key="twig" value="469" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -55,7 +55,7 @@
           <entry key="HTML" value="91" />
           <entry key="JSON" value="1" />
           <entry key="PHP" value="2" />
-          <entry key="Twig" value="343" />
+          <entry key="Twig" value="469" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.composer.command.options" />
@@ -109,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/views/index.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1055">
-              <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+            <state relative-caret-position="604">
+              <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -262,12 +262,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537310191597</updated>
       <workItem from="1537310197118" duration="5659000" />
-      <workItem from="1537913662855" duration="4914000" />
+      <workItem from="1537913662855" duration="5508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10573000" />
+    <option name="totallyTimeSpent" value="11167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="67" width="1400" height="833" extended-state="0" />
@@ -373,8 +373,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/views/index.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1055">
-          <caret line="71" column="17" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+        <state relative-caret-position="604">
+          <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
         </state>
       </provider>
     </entry>
